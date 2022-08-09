@@ -42,7 +42,7 @@ class matrix{
            }
             System.out.println();
         }
-        System.out.println("second matrixis :-");
+        System.out.println("second matrix is :-");
         for (i=0; i<m; i++ ){
             for (j=0; j<m; j++){
              System.out.print(array2[i][j]+"\t");
